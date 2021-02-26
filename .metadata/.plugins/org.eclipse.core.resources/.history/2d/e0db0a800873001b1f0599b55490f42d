@@ -1,0 +1,15 @@
+package br.univates.AgendaTelefonicaNova.negocio;
+
+public class Contato {
+
+	private String nome;
+	private double numero;
+	
+	public Contato(String nome, double numero) {
+		this.nome = nome;
+		this.numero = numero;
+	}
+	
+	
+	
+}

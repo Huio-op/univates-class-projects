@@ -1,0 +1,5 @@
+package br.univates.AgendaTelefonicaNova.negocio;
+
+public class Contato {
+
+}

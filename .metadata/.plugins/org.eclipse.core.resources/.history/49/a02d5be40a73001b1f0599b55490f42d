@@ -1,0 +1,5 @@
+package br.univates.AgendaTelefonicaNova.persistencia;
+
+public class ContatoDB {
+
+}

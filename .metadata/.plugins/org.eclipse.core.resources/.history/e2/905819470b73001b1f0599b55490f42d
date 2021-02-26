@@ -1,0 +1,11 @@
+package br.univates.AgendaTelefonicaNova.persistencia;
+
+import java.util.ArrayList;
+
+import br.univates.AgendaTelefonicaNova.negocio.Contato;
+
+public class ContatoDB {
+
+	private static ArrayList<Contato> listaContatos = new ArrayList<Contato>();
+	
+}
